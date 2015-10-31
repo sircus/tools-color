@@ -2,10 +2,14 @@
  * sircus-tools-color
  ================================================== */
 /* Colors */
+.t-colorWhite           { color: #FFF; }
+.t-colorBlack           { color: #000; }
+
 .t-colorGray90          { color: var(--g-gray-90); }
 .t-colorGray80          { color: var(--g-gray-80); }
 .t-colorGray60          { color: var(--g-gray-60); }
 .t-colorGray40          { color: var(--g-gray-40); }
+.t-colorGray30          { color: var(--g-gray-30); }
 .t-colorGray20          { color: var(--g-gray-20); }
 .t-colorGray10          { color: var(--g-gray-10); }
 .t-colorGray5           { color: var(--g-gray-5); }
@@ -30,10 +34,14 @@
 .t-colorErrorLight      { color: var(--g-error-light); }
 
 /* Fills */
+.t-fillWhite           { background-color: #FFF; }
+.t-fillBlack           { background-color: #000; }
+
 .t-fillGray90          { background-color: var(--g-gray-90); }
 .t-fillGray80          { background-color: var(--g-gray-80); }
 .t-fillGray60          { background-color: var(--g-gray-60); }
 .t-fillGray40          { background-color: var(--g-gray-40); }
+.t-fillGray30          { background-color: var(--g-gray-30); }
 .t-fillGray20          { background-color: var(--g-gray-20); }
 .t-fillGray10          { background-color: var(--g-gray-10); }
 .t-fillGray5           { background-color: var(--g-gray-5); }
@@ -59,10 +67,14 @@
 .t-fillErrorLight      { background-color: var(--g-error-light); }
 
 /* Borders */
+.t-borderWhite           { border-color: #FFF; }
+.t-borderBlack           { border-color: #000; }
+
 .t-borderGray90        { border-color: var(--g-gray-90); }
 .t-borderGray80        { border-color: var(--g-gray-80); }
 .t-borderGray60        { border-color: var(--g-gray-60); }
 .t-borderGray40        { border-color: var(--g-gray-40); }
+.t-borderGray30        { border-color: var(--g-gray-30); }
 .t-borderGray20        { border-color: var(--g-gray-20); }
 .t-borderGray10        { border-color: var(--g-gray-10); }
 .t-borderGray5         { border-color: var(--g-gray-5); }
