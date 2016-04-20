@@ -14,6 +14,7 @@
 .t-colorGray10          { color: var(--g-gray-10); }
 .t-colorGray5           { color: var(--g-gray-5); }
 
+.t-colorPrimary         { color: var(--g-primary); }
 .t-colorPrimaryDark     { color: var(--g-primary-dark); }
 .t-colorPrimaryLight    { color: var(--g-primary-light); }
 
